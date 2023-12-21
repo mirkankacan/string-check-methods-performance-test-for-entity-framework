@@ -1,0 +1,12 @@
+C:\Users\mirkan\Desktop\PerformanceTest\bin\Debug\PerformanceTest.exe.config
+C:\Users\mirkan\Desktop\PerformanceTest\bin\Debug\PerformanceTest.exe
+C:\Users\mirkan\Desktop\PerformanceTest\bin\Debug\PerformanceTest.pdb
+C:\Users\mirkan\Desktop\PerformanceTest\obj\Debug\PerformanceTest.csproj.AssemblyReference.cache
+C:\Users\mirkan\Desktop\PerformanceTest\obj\Debug\PerformanceTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirkan\Desktop\PerformanceTest\obj\Debug\PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\mirkan\Desktop\PerformanceTest\obj\Debug\PerformanceTest.exe
+C:\Users\mirkan\Desktop\PerformanceTest\obj\Debug\PerformanceTest.pdb
+C:\Users\mirko\Desktop\PerformanceTest\obj\Debug\PerformanceTest.csproj.AssemblyReference.cache
+C:\Users\mirko\Desktop\PerformanceTest\obj\Debug\PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\mirko\Desktop\PerformanceTest\obj\Debug\PerformanceTest.exe
+C:\Users\mirko\Desktop\PerformanceTest\obj\Debug\PerformanceTest.pdb
